@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there, I'm justalinko <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<!--
-**justalinko/justalinko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="PHP" height="125px" src="https://www.php.net/images/logos/new-php-logo.png" />
+<img align="right" alt="Bash" height="125px" src="https://bashlogo.com/img/logo/png/full_colored_dark.png" />
 
-Here are some ideas to get you started:
+**Personal Stuffs:**
+- 🔭 I’m currently working on Home with love
+- 🌱 I’m currently learning JavaScript
+- ✨ Interested in backend-ish things 
+- 📫 Reach me via [email](mailto:alinkokomansuby@gmail.com)
 
-- 🔭 I’m currently working on Home ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![🦉 Justalinko's github stats](https://github-readme-stats.vercel.app/api?username=justalinko&show_icons=true&hide_border=true&hide=issues)](https://github.com/justalinko)
+
+
