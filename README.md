@@ -2,10 +2,10 @@
 
 <img align="right" alt="PHP" height="125px" src="https://www.php.net/images/logos/new-php-logo.png" />
 <img align="right" alt="Bash" height="125px" src="https://bashlogo.com/img/logo/png/full_colored_dark.png" />
+<img align="right" alt="NodeJS" height="125px" src="https://nodejs.org/static/images/logo.svg"/>
 
 **Personal Stuffs:**
-- 🔭 I’m currently working on Home with love
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working on Home 
 - ✨ Interested in backend-ish things 
 - 📫 Reach me via [email](mailto:alinkokomansuby@gmail.com)
 
